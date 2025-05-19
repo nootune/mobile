@@ -24,5 +24,9 @@
             android:id="@+id/nav_webViewFragment"
             android:icon="@android:drawable/ic_menu_myplaces"
             android:title="@string/menu_webview" />
+        <item
+            android:id="@+id/nav_internet"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="@string/menu_internet" />
     </group>
 </menu>

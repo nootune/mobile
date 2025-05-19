@@ -34,4 +34,10 @@
         android:name="ru.mirea.khvatovkl.mireaproject.WebViewFragment"
         android:label="@string/menu_webview"
         tools:layout="@layout/fragment_web_view" />
+
+    <fragment
+        android:id="@+id/nav_internet"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.internet.internet"
+        android:label="@string/menu_internet"
+        tools:layout="@layout/fragment_internet" />
 </navigation>

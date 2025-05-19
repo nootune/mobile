@@ -12,6 +12,7 @@
     <string name="menu_moe">Moe</string>
     <string name="menu_webview">WebView</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_internet">Internet</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
