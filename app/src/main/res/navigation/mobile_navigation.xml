@@ -40,4 +40,19 @@
         android:name="ru.mirea.khvatovkl.mireaproject.ui.internet.internet"
         android:label="@string/menu_internet"
         tools:layout="@layout/fragment_internet" />
+    <fragment
+        android:id="@+id/nav_datchiki"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.DatchikiFragment"
+        android:label="@string/menu_Datchiki"
+        tools:layout="@layout/fragment_datchiki" />
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.CameraFragment"
+        android:label="@string/menu_Camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/nav_audio"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.AudioFragment"
+        android:label="@string/menu_Audio"
+        tools:layout="@layout/fragment_audio" />
 </navigation>

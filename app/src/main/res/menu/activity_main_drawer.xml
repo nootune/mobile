@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@android:drawable/alert_dark_frame"
             android:title="@string/menu_home" />
         <item
             android:id="@+id/nav_gallery"
@@ -28,5 +28,17 @@
             android:id="@+id/nav_internet"
             android:icon="@android:drawable/ic_menu_mapmode"
             android:title="@string/menu_internet" />
+        <item
+            android:id="@+id/nav_datchiki"
+            android:icon="@android:drawable/ic_menu_always_landscape_portrait"
+            android:title="@string/menu_Datchiki" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="@string/menu_Camera" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="@string/menu_Audio" />
     </group>
 </menu>

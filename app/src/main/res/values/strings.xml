@@ -13,6 +13,9 @@
     <string name="menu_webview">WebView</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_internet">Internet</string>
+    <string name="menu_Datchiki">Datchiki</string>
+    <string name="menu_Camera">Camera</string>
+    <string name="menu_Audio">Audio</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
