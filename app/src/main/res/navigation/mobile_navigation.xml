@@ -55,4 +55,14 @@
         android:name="ru.mirea.khvatovkl.mireaproject.ui.AudioFragment"
         android:label="@string/menu_Audio"
         tools:layout="@layout/fragment_audio" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.ProfileFragment"
+        android:label="@string/menu_Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_files"
+        android:name="ru.mirea.khvatovkl.mireaproject.ui.FileWork"
+        android:label="@string/menu_Files"
+        tools:layout="@layout/fragment_file_work" />
 </navigation>
